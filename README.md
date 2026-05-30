@@ -6,8 +6,8 @@
 |---|---|
 | **App** | IntelliFit |
 | **Platform** | iOS |
-| **Developer** | [YOUR LEGAL NAME — e.g. Leslie Jiang] |
-| **Last updated** | [May 30, 2026] |
+| **Developer** | Wenbo Jiang |
+| **Last updated** | May 30, 2026 |
 
 **Quick links:** [Support](#support) · [Privacy Policy](#privacy-policy)
 
@@ -19,7 +19,7 @@
 
 For help with your account, bugs, subscriptions, or data requests:
 
-**Email:** [support@yourdomain.com](mailto:support@yourdomain.com)
+**Email:** [wbjiangntu@gmail.com](mailto:wbjiangntu@gmail.com)
 
 We aim to respond within a few business days.
 
@@ -60,7 +60,7 @@ IntelliFit is not a medical device and does not provide medical advice, diagnosi
 
 **Effective date:** [May 30, 2026]
 
-This Privacy Policy describes how **[YOUR LEGAL NAME]** (“we,” “us”) collects, uses, and shares information when you use the **IntelliFit** mobile application and related services (the “Service”).
+This Privacy Policy describes how **Jiang Wenbo** (“we,” “us”) collects, uses, and shares information when you use the **IntelliFit** mobile application and related services (the “Service”).
 
 ### 1. Who we are
 
@@ -217,9 +217,9 @@ California residents may request to know, delete, or correct personal informatio
 
 Questions about this Privacy Policy or the Service:
 
-**[YOUR LEGAL NAME]**  
-Email: [support@yourdomain.com](mailto:support@yourdomain.com)
+**Jiang Wenbo**  
+Email: [wbjiangntu@gmail.com](mailto:wbjiangntu@gmail.com)
 
 ---
 
-*© [2026] [YOUR LEGAL NAME]. All rights reserved.*
+*© [2026] [Jiang Wenbo]. All rights reserved.*
