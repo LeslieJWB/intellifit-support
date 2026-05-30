@@ -66,8 +66,8 @@ This Privacy Policy describes how **Jiang Wenbo** (“we,” “us”) collects,
 
 The Service is operated by:
 
-**[YOUR LEGAL NAME]**  
-Contact: [support@yourdomain.com](mailto:support@yourdomain.com)
+**Jiang Wenbo**  
+Contact: [wbjiangntu@gmail.com](mailto:wbjiangntu@gmail.com)
 
 ### 2. Information we collect
 
@@ -184,7 +184,7 @@ Depending on your location, you may have the right to:
 - Withdraw consent where processing is consent-based
 - Lodge a complaint with a supervisory authority (EEA/UK)
 
-**To exercise these rights, email [support@yourdomain.com](mailto:support@yourdomain.com) from the address linked to your account.**
+**To exercise these rights, email [wbjiangntu@gmail.com](mailto:wbjiangntu@gmail.com) from the address linked to your account.**
 
 You can also:
 
@@ -211,7 +211,7 @@ We may update this Privacy Policy from time to time. We will update the “Last 
 
 ### 13. California privacy notice (CCPA/CPRA)
 
-California residents may request to know, delete, or correct personal information, and to opt out of “sale” or “sharing” of personal information. We do not sell or share personal information for cross-context behavioral advertising. Submit requests to [support@yourdomain.com](mailto:support@yourdomain.com).
+California residents may request to know, delete, or correct personal information, and to opt out of “sale” or “sharing” of personal information. We do not sell or share personal information for cross-context behavioral advertising. Submit requests to [wbjiangntu@gmail.com](mailto:wbjiangntu@gmail.com).
 
 ### 14. Contact
 
